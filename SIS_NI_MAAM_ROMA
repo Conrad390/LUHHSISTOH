@@ -9,7 +9,7 @@
   <body>
   <style>
 body{
-	background-image: url("");
+	background-image: url("2head.png");
 	background-image: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
